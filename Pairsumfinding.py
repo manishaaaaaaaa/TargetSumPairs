@@ -18,7 +18,7 @@ def string_read(n, nums, target):
     else:
         return "Pair not found."
 
-# Example usage
+# Example usage of  the code
 nums1 = [8, 7, 2, 5, 3, 1]
 target1 = 10
 result1 = string_read(len(nums1), nums1, target1)
